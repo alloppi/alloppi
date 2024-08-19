@@ -1,5 +1,5 @@
 #### 👋 Hi, I’m **Alan Chan**. 
-- 😋 [My technical profolio](https://alloppi.github.io/).
+- 😋 [My technical profolio](https://alloppi.github.io/)
 - 👨‍💻 [My LinkedIn account](https://www.linkedin.com/in/alan-ylc/)
 - 📫 You can reach me by email: alloppi@gmail.com
 - 👀 I’m interested to be the full stack web development, some front-end and back-end projects can be found in repos.
