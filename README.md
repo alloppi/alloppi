@@ -1,10 +1,11 @@
-### 👋 Hi, I’m **Alan Chan**. 
-- 👀 I’m interested in full stack web development, data science and building some projects on these.
-- 🌱 I’m currently learning how to build a responsive web site. I am also a student in HyperionDev that studying  Python, data science, machine language, NLP
-- 💞️ I’m looking to collaborating with anyone I can.
-- 📫 You can reach me by email: alloppi@gmail.com
+#### 👋 Hi, I’m **Alan Chan**. 
+- 😋 My technical profolio [GitHub Pages](https://alloppi.github.io/).
 - 👨‍💻 [My LinkedIn account](https://www.linkedin.com/in/alan-ylc/)
-- 😋 My technical profolio can be accessed using [GitHub Pages](https://alloppi.github.io/).
+- 📫 You can reach me by email: alloppi@gmail.com
+- 👀 I’m interested to be the full stack web development, some front-end and back-end projects can be found in repos.
+- 🌱 Coming days must be the AI Generation currently learning experience in Python, Data science, machine learning, NLP, LLM must have advantage. 
+- 💞️ I’m looking to collaborating with you and anyone are welcome anyone to any comment and suggestion
+
 <!---
 alloppi/alloppi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
